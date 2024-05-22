@@ -1,0 +1,12 @@
+n = 10000
+joueur1 : bot1D
+   devinettes : 57996 | 0.000429904233841669ms
+   allumettes : 27 | 0.0015422415733337403ms
+   morpion : 326 | 0.006634734869003296ms
+joueur2 : bot2E
+   devinettes : 75159 | 0.001380850365402987ms
+   allumettes : 9973 | 0.0011571085453033448ms
+   morpion : 7999 | 0.031179031133651728ms
+Totaux :
+   bot1D : 58349
+   bot2E : 93131
