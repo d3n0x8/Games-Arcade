@@ -110,10 +110,10 @@ if __name__ == '__main__':
 
     print(bcolors.RESET + ' Bienvenue ! ')
 
-    str_n_joueuer = input('Veuillez entrer le nombre de joueur: ')
+    str_n_joueuer = input('Veuillez entrer le nombre de joueur(s) réel(s): ')
     while verif(str_n_joueuer, 0, 2) != 'pass':
         print(verif(str_n_joueuer, 0, 2))
-        str_n_joueuer = input('Veuillez entrer le nombre de joueur: ')
+        str_n_joueuer = input('Veuillez entrer le nombre de joueur(s) réel(s): ')
     n = int(str_n_joueuer)
 
     #Entré des joueurs
